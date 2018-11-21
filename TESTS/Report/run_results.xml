@@ -6,11 +6,11 @@
 <Data>
     <Name>Action1</Name>
     <Description />
-    <StartTime>2018-11-20 16:51:12</StartTime>
+    <StartTime>2018-11-20 17:01:25</StartTime>
     <Result>Done</Result>
     <InputParameters />
     <Extension>
-      <IconKey>42e07003139f409d94482e0498f5b666</IconKey>
+      <IconKey>ef1e48340bae47779574befaee6e68f7</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -18,11 +18,11 @@
 <Data>
     <Name>Action0</Name>
     <Description />
-    <StartTime>2018-11-20 16:51:06</StartTime>
+    <StartTime>2018-11-20 17:01:19</StartTime>
     <Duration>6</Duration>
     <Result>Done</Result>
     <Extension>
-      <IconKey>b07fdeedf3cb4e63bc6edde77c3dbed1</IconKey>
+      <IconKey>b4e818ee893c4422ab298031b3746b22</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Index>1</Index>
@@ -46,12 +46,12 @@
     <ToolName>HPE Unified Functional Testing</ToolName>
     <ToolVersion>14.03</ToolVersion>
     <Description />
-    <StartTime>2018-11-20 16:51:06</StartTime>
-    <Duration>6</Duration>
+    <StartTime>2018-11-20 17:01:18</StartTime>
+    <Duration>7</Duration>
     <Result>Done</Result>
     <InputParameters />
     <Extension>
-      <IconKey>41a69244e58b4cdbbf09e27028688818</IconKey>
+      <IconKey>1c87ebdcbf21409b8b6b9d5b03be4e33</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Environment>
@@ -72,7 +72,7 @@
 </ReportNode>
 <GeneralInfo>
     <ResultName>TESTS</ResultName>
-    <RunStartTime>2018-11-20 16:51:06</RunStartTime>
+    <RunStartTime>2018-11-20 17:01:18</RunStartTime>
     <Timezone>+05:30:00</Timezone>
     <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
     <OrchestrationToolVersion>14.03</OrchestrationToolVersion>

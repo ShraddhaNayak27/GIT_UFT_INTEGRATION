@@ -1,1 +1,0 @@
-﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\enayasu\\Documents\\GitHub\\GIT_UFT_INTEGRATION\\TESTS\\Res1',namePairs:[]}]};
