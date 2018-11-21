@@ -12,6 +12,7 @@ Browser("Welcome: Mercury Tours").Page("Find a Flight: Mercury").Sync
 
 Browser("Welcome: Mercury Tours").Page("Find a Flight: Mercury").Link("Link_Cruises").Click
 Wait 3
+Browser("Welcome: Mercury Tours").Page("Cruises: Mercury Tours").Sync
 
 print "Test 01 has ended"
 
