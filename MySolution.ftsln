@@ -7,6 +7,20 @@ Project("") = "TESTS", "TESTS\Test.tsp", "5D7D2855-FDA9-4337-AB22-07CE4D9B919D"
 		PathInformation = C:\Users\enayasu\Documents\GitHub\GIT_UFT_INTEGRATION\TESTS\Test.tsp
 		Keyword = QTP
 		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Project("") = "Test_02", "Test_02\Test.tsp", "B7ACEEB9-B704-4B55-82AE-D745FE3CD55F"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\enayasu\Documents\GitHub\GIT_UFT_INTEGRATION\Test_02\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Project("") = "Test_03", "Test_03\Test.tsp", "10C93686-E8A5-4E31-AF52-97A2CBB11F33"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\enayasu\Documents\GitHub\GIT_UFT_INTEGRATION\Test_03\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
 		BaselineId = 
 	EndProjectSection
 EndProject
@@ -20,5 +34,13 @@ Global
 		5D7D2855-FDA9-4337-AB22-07CE4D9B919D.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		5D7D2855-FDA9-4337-AB22-07CE4D9B919D.Release|Any CPU.Build.0 = Release|Any CPU
 		5D7D2855-FDA9-4337-AB22-07CE4D9B919D.Release|Any CPU.ActiveCfg = Release|Any CPU
+		B7ACEEB9-B704-4B55-82AE-D745FE3CD55F.Debug|Any CPU.Build.0 = Debug|Any CPU
+		B7ACEEB9-B704-4B55-82AE-D745FE3CD55F.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		B7ACEEB9-B704-4B55-82AE-D745FE3CD55F.Release|Any CPU.Build.0 = Release|Any CPU
+		B7ACEEB9-B704-4B55-82AE-D745FE3CD55F.Release|Any CPU.ActiveCfg = Release|Any CPU
+		10C93686-E8A5-4E31-AF52-97A2CBB11F33.Debug|Any CPU.Build.0 = Debug|Any CPU
+		10C93686-E8A5-4E31-AF52-97A2CBB11F33.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		10C93686-E8A5-4E31-AF52-97A2CBB11F33.Release|Any CPU.Build.0 = Release|Any CPU
+		10C93686-E8A5-4E31-AF52-97A2CBB11F33.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 EndGlobal
