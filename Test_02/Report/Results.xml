@@ -134,7 +134,7 @@
 <DName><![CDATA[Test_02]]></DName>
 <Res><![CDATA[Test_02]]></Res>
 <DT rID="T2">
-<NodeArgs eType="Table" icon="20" nRep="4" filter="False" >
+<NodeArgs eType="Table" icon="29" nRep="4" filter="False" >
 <Disp><![CDATA[Run-Time Data Table]]></Disp>
 <BtmPane vType="Table" >
 <Path><![CDATA[Default.xls]]></Path>
@@ -147,104 +147,113 @@
 <Step rID="T5">
 <Obj plainTxt="False" ><![CDATA[Welcome: Mercury Tours]]></Obj>
 <Details plainTxt="False" ><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></Details>
-<Time><![CDATA[11/21/2018 - 20:06:47]]></Time>
-<TimeTick>1542811007</TimeTick>
+<Time><![CDATA[11/23/2018 - 15:22:56]]></Time>
+<TimeTick>1542966776</TimeTick>
 <Step rID="T6">
 <Obj plainTxt="False" ><![CDATA[Welcome: Mercury Tours]]></Obj>
 <Details plainTxt="False" ><![CDATA[Page]]></Details>
-<Time><![CDATA[11/21/2018 - 20:06:47]]></Time>
-<TimeTick>1542811007</TimeTick>
+<Time><![CDATA[11/23/2018 - 15:22:56]]></Time>
+<TimeTick>1542966776</TimeTick>
 <Step rID="T7">
 <Obj plainTxt="False" ><![CDATA[userName.Set]]></Obj>
 <Details plainTxt="False" ><![CDATA["mercury"]]></Details>
-<Time><![CDATA[11/21/2018 - 20:06:47]]></Time>
-<TimeTick>1542811007</TimeTick>
-<NodeArgs eType="Replay" icon="25" nRep="12" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[11/23/2018 - 15:22:56]]></Time>
+<TimeTick>1542966776</TimeTick>
+<NodeArgs eType="Replay" icon="34" nRep="12" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[userName.Set]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T8">
 <Obj plainTxt="False" ><![CDATA[password.SetSecure]]></Obj>
 <Details plainTxt="False" ><![CDATA["mercury"]]></Details>
-<Time><![CDATA[11/21/2018 - 20:06:47]]></Time>
-<TimeTick>1542811007</TimeTick>
-<NodeArgs eType="Replay" icon="25" nRep="15" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[11/23/2018 - 15:22:57]]></Time>
+<TimeTick>1542966777</TimeTick>
+<NodeArgs eType="Replay" icon="34" nRep="15" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[password.SetSecure]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T9">
 <Obj plainTxt="False" ><![CDATA[Sign-In.Click]]></Obj>
 <Details plainTxt="False" ><![CDATA[]]></Details>
-<Time><![CDATA[11/21/2018 - 20:06:48]]></Time>
-<TimeTick>1542811008</TimeTick>
-<NodeArgs eType="Replay" icon="26" nRep="18" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[11/23/2018 - 15:22:57]]></Time>
+<TimeTick>1542966777</TimeTick>
+<NodeArgs eType="Replay" icon="35" nRep="18" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[Sign-In.Click]]></Disp>
 </NodeArgs>
 </Step>
-<NodeArgs eType="Context" icon="24" nRep="11" Source="Action1" SourceLine="-1" >
+<NodeArgs eType="Context" icon="33" nRep="11" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[Welcome: Mercury Tours]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T10">
 <Obj plainTxt="False" ><![CDATA[Find a Flight: Mercury]]></Obj>
 <Details plainTxt="False" ><![CDATA[Page]]></Details>
-<Time><![CDATA[11/21/2018 - 20:06:50]]></Time>
-<TimeTick>1542811010</TimeTick>
+<Time><![CDATA[11/23/2018 - 15:22:59]]></Time>
+<TimeTick>1542966779</TimeTick>
 <Step rID="T11">
 <Obj plainTxt="False" ><![CDATA[Find a Flight: Mercury.Sync]]></Obj>
 <Details plainTxt="False" ><![CDATA[]]></Details>
-<Time><![CDATA[11/21/2018 - 20:06:51]]></Time>
-<TimeTick>1542811011</TimeTick>
-<NodeArgs eType="Replay" icon="24" nRep="22" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[11/23/2018 - 15:22:59]]></Time>
+<TimeTick>1542966779</TimeTick>
+<NodeArgs eType="Replay" icon="33" nRep="22" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[Find a Flight: Mercury.Sync]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T12">
 <Obj plainTxt="False" ><![CDATA[Hotels.Click]]></Obj>
 <Details plainTxt="False" ><![CDATA[]]></Details>
-<Time><![CDATA[11/21/2018 - 20:06:51]]></Time>
-<TimeTick>1542811011</TimeTick>
-<NodeArgs eType="Replay" icon="27" nRep="25" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[11/23/2018 - 15:23:00]]></Time>
+<TimeTick>1542966780</TimeTick>
+<NodeArgs eType="Replay" icon="36" nRep="25" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[Hotels.Click]]></Disp>
 </NodeArgs>
 </Step>
-<NodeArgs eType="Context" icon="24" nRep="21" Source="Action1" SourceLine="-1" >
+<NodeArgs eType="Context" icon="33" nRep="21" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[Find a Flight: Mercury]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T13">
 <Obj plainTxt="False" ><![CDATA[Under Construction: Mercury]]></Obj>
 <Details plainTxt="False" ><![CDATA[Page]]></Details>
-<Time><![CDATA[11/21/2018 - 20:06:53]]></Time>
-<TimeTick>1542811013</TimeTick>
+<Time><![CDATA[11/23/2018 - 15:23:04]]></Time>
+<TimeTick>1542966784</TimeTick>
 <Step rID="T14">
 <Obj plainTxt="False" ><![CDATA[Under Construction: Mercury.Sync]]></Obj>
 <Details plainTxt="False" ><![CDATA[]]></Details>
-<Time><![CDATA[11/21/2018 - 20:06:53]]></Time>
-<TimeTick>1542811013</TimeTick>
-<NodeArgs eType="Replay" icon="24" nRep="29" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[11/23/2018 - 15:23:04]]></Time>
+<TimeTick>1542966784</TimeTick>
+<NodeArgs eType="Replay" icon="33" nRep="29" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[Under Construction: Mercury.Sync]]></Disp>
 </NodeArgs>
 </Step>
-<NodeArgs eType="Context" icon="24" nRep="28" Source="Action1" SourceLine="-1" >
+<Step rID="T15">
+<Obj plainTxt="False" ><![CDATA[[ Under Construction: Mercury Tours ].Close]]></Obj>
+<Details plainTxt="False" ><![CDATA[]]></Details>
+<Time><![CDATA[11/23/2018 - 15:23:10]]></Time>
+<TimeTick>1542966790</TimeTick>
+<NodeArgs eType="Replay" icon="32" nRep="30" Source="Action1" SourceLine="-1" >
+<Disp><![CDATA[[ Under Construction: Mercury Tours ].Close]]></Disp>
+</NodeArgs>
+</Step>
+<NodeArgs eType="Context" icon="33" nRep="28" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[Under Construction: Mercury]]></Disp>
 </NodeArgs>
 </Step>
-<NodeArgs eType="Context" icon="23" nRep="10" Source="Action1" SourceLine="-1" >
+<NodeArgs eType="Context" icon="32" nRep="10" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[Welcome: Mercury Tours]]></Disp>
 </NodeArgs>
 </Step>
-<Summary sTime="11/21/2018 - 20:06:47" eTime="11/21/2018 - 20:06:58" passed="0" failed="0" warnings="0" ></Summary>
-<NodeArgs eType="StartAction" icon="22" nRep="7" >
+<Summary sTime="11/23/2018 - 15:22:56" eTime="11/23/2018 - 15:23:10" passed="0" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="31" nRep="7" >
 <Disp><![CDATA[Action1 Summary]]></Disp>
 </NodeArgs>
 </Action>
-<NodeArgs eType="StartIteration" icon="21" nRep="6" >
+<NodeArgs eType="StartIteration" icon="30" nRep="6" >
 <Disp><![CDATA[Test_02 Iteration 1 (Row 1)]]></Disp>
 </NodeArgs>
 </DIter>
-<Summary sTime="11/21/2018 - 20:06:43" eTime="11/21/2018 - 20:06:58" passed="0" failed="0" warnings="0" ></Summary>
-<NodeArgs eType="StartTest" icon="19" nRep="3" >
+<Summary sTime="11/23/2018 - 15:22:47" eTime="11/23/2018 - 15:23:10" passed="0" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartTest" icon="28" nRep="3" >
 <Disp><![CDATA[Test Test_02 Summary]]></Disp>
 </NodeArgs>
 </Doc>
