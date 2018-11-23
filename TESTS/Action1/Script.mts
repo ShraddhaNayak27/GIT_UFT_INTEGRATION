@@ -1,4 +1,4 @@
-﻿Print "Test 01 has started"
+﻿Print "Test 01 has begun"
 
 DataTable.SetCurrentRow(2)
 Dim userName:userName = DataTable.Value("A","Action1")
